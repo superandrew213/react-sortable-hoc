@@ -8,12 +8,7 @@
   },
   "user": "clauderic",
   "homepage": "https://github.com/clauderic/react-sortable-hoc",
-  "source": "src/index.js",
-  "main": "dist/react-sortable-hoc.js",
-  "umd:main": "dist/react-sortable-hoc.umd.js",
-  "browser": "dist/react-sortable-hoc.umd.js",
-  "module": "dist/react-sortable-hoc.esm.js",
-  "jsnext:main": "dist/react-sortable-hoc.esm.js",
+  "main": "src/index.js",
   "types": "types/index.d.ts",
   "license": "MIT",
   "repository": {
